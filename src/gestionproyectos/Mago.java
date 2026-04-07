@@ -6,6 +6,9 @@ public class Mago extends Tarea {
     public void lanzarHechizo() {
     System.out.println(nombre + " lanza un hechizo");
 }
+    public int getMana() {
+    return mana;
+}
 
     public Mago(String nombre, int mana) {
         this.nombre = nombre;
