@@ -1,4 +1,4 @@
-package gestionproyectos;
+//archivo correspondiente a proyecto
 
 public class Proyecto {
 
