@@ -1,3 +1,4 @@
+// Prueba simulacion para el git Pull 
 public class Mago extends Tarea {
 
     private String nombre;
